@@ -1,6 +1,6 @@
 I'd Like to give thanks to the users of unsplash.com who offer free images for commercial use!
 
-links to images taken from unsplash.com:
+# links to images taken from unsplash.com:
 
 https://unsplash.com/photos/BMnX7L9G5xc
 https://unsplash.com/photos/D6Tu_L3chLE
