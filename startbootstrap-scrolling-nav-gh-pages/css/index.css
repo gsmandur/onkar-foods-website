@@ -5,6 +5,34 @@ header {
   background-size: cover;
 }
 
+h1,
+h2,
+h3 {
+  font-family: "Alegreya SC", serif;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+}
+
 .navbar {
   background: rgba(0, 0, 0, 0.6);
+}
+
+.service-img {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: solid 3px black;
+  display: block;
+
+  margin-left: auto;
+  margin-right: auto;
 }
